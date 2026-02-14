@@ -1,0 +1,494 @@
+[
+  {
+    "brand": "BMW",
+    "name": "BMW i3 60 Ah (2013-2017)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i3 94 Ah (2016-2017)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i3 94 Ah (2017-2018)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i3s 94 Ah (2017-2018)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX3 (MY21) (2020-2021)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i3 120 Ah (2018-2022)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i3s 120 Ah (2018-2022)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i4 eDrive40 (2021-2024)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX xDrive40 (2021-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX xDrive50 (2021-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i4 M50 (2021-2024)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX3 (MY22-24) (2021-2024)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX M60 (2022-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i7 xDrive60 (2022-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX1 xDrive30 (MY23-25) (2022-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i4 eDrive35 (2022-2024)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i7 M70 xDrive (2023-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i7 eDrive50 (2023-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i5 eDrive40 Sedan (MY23-24) (2023-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i5 M60 xDrive Sedan (MY23-24) (2023-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX1 eDrive20 (MY23-25) (2023-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX2 xDrive30 (MY23-25) (2023-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i5 xDrive40 Sedan (MY24) (2024-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX2 eDrive20 (MY23-25) (2024-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i5 eDrive40 Touring (MY24) (2024-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i5 M60 xDrive Touring (MY24) (2024-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i4 eDrive35 (2024-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i4 eDrive40 (2024-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i4 xDrive40 (2024-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i4 M50 (2024-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i5 xDrive40 Touring (MY24) (2024-2025)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX xDrive45 (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX xDrive60 (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX M70 xDrive (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i5 eDrive40 Sedan (MY25) (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i5 xDrive40 Sedan (MY25) (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i5 M60 xDrive Sedan (MY25) (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i5 eDrive40 Touring (MY25) (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i5 xDrive40 Touring (MY25) (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i5 M60 xDrive Touring (MY25) (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i4 eDrive35 (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i4 eDrive40 (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i4 xDrive40 (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW i4 M60 xDrive (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX3 50 xDrive (MY26) (2025-2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX1 eDrive20 (MY26) (2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX1 xDrive30 (MY26) (2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX2 eDrive20 (MY26) (2026)"
+  },
+  {
+    "brand": "BMW",
+    "name": "BMW iX2 xDrive30 (MY26) (2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 (MY20) (2020-2021)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Standard Range Single Motor (MY21) (2021-2022)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Long Range Single Motor (MY21-22) (2021-2023)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Long Range Dual Motor (MY21-23) (2021-2023)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Standard Range Single Motor (MY22-23) (2022)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 3 Long Range Dual motor (MY23-25) (2022-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 3 Long Range Performance (MY23-25) (2022-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Long Range Performance (MY23) (2022-2023)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Standard Range Single Motor (MY24) (2023-2024)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Long Range Single Motor (MY24) (2023-2024)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Long Range Dual Motor (MY24) (2023-2024)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Long Range Performance (MY24) (2023-2024)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 4 Long Range Single Motor (MY24) (2024-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 4 Long Range Dual Motor (MY24) (2024-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Standard Range Single Motor (MY25) (2024-2025)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Long Range Single Motor (MY25) (2024-2025)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Long Range Dual Motor (MY25) (2024-2025)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Long Range Performance (MY25) (2024-2025)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 3 Long Range Single motor (MY23-25) (2024-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Standard Range Single Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Long Range Single Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Long Range Dual Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 2 Long Range Performance (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 5 Dual Motor (2025-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 5 Performance (2025-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 3 Rear Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 3 Dual Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Polestar",
+    "name": "Polestar 3 Performance (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo XC40 P8 AWD Recharge (MY21) (2020-2021)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo C40 Recharge Twin Pure Electric (MY22-23) (2021-2023)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo XC40 Recharge Twin Pure Electric (MY22) (2021-2022)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo XC40 Recharge Pure Electric (MY22) (2021-2022)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo XC40 Recharge Pure Electric (MY23) (2022-2023)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo XC40 Recharge Twin Pure Electric (MY23) (2022-2023)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo C40 Recharge Pure Electric (MY23) (2022-2023)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX90 Twin Motor (MY24-25) (2022-2025)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX90 Twin Motor Performance (MY24-25) (2022-2025)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo XC40 Recharge Single Motor (MY24) (2022-2024)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo XC40 Recharge Single Motor ER (MY24) (2022-2024)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo XC40 Recharge Twin Motor (MY24) (2022-2024)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo C40 Recharge Single Motor (MY24) (2022-2024)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo C40 Recharge Single Motor ER (MY24) (2022-2024)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo C40 Recharge Twin Motor (MY24) (2022-2024)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX30 Single Motor (MY24) (2023-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX30 Single Motor ER (MY24) (2023-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX30 Twin Motor Performance (MY24) (2023-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX90 Single Motor (MY24-25) (2023-2025)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX40 Single Motor (MY25) (2024-2025)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX40 Single Motor ER (MY25) (2024-2025)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX40 Twin Motor Performance (MY25) (2024-2025)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EC40 Single Motor (MY25) (2024-2025)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EC40 Single Motor ER (MY25) (2024-2025)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EC40 Twin Motor Performance (MY25) (2024-2025)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX40 Twin Motor (MY25) (2024-2025)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EC40 Twin Motor (MY25) (2024-2025)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX30 Cross Country (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo ES90 Single Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo ES90 Twin Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo ES90 Twin Motor Performance (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EC40 Single Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EC40 Single Motor ER (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EC40 Twin Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EC40 Twin Motor Performance (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX40 Single Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX40 Single Motor ER (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX40 Twin Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX40 Twin Motor Performance (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX90 Single Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX90 Twin Motor (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX90 Twin Motor Performance (MY26) (2025-2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX60 P6 (MY27) (2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX60 P10 AWD (MY27) (2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX60 P12 AWD (MY27) (2026)"
+  },
+  {
+    "brand": "Volvo",
+    "name": "Volvo EX60 Cross Country P10 AWD (MY28) (2027)"
+  }
+]
