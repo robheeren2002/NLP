@@ -103,7 +103,7 @@ class TelemetryLogger:
 
     def set_user_sliders(self, session_ids: list[str], sliders: dict):
         payload = json.dumps(sliders, ensure_ascii=False, default=str)
-        ts = _utc_now_iso()
+        ts = utc_now_iso()
         with self._connect() as con:
             for sid in session_ids:
                 con.execute("""
