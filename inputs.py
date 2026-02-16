@@ -4,23 +4,30 @@ from datetime import date
 GUARDRAIL_LOCK_AFTER = 3       # lock after N triggers
 GUARDRAIL_LOCK_MINUTES = 5000    # lock duration
 GUARDRAIL_WINDOW_NOTE = "You are locked out due to misuse. Contact support to unlock your profile"
+from pathlib import Path
 
-vd_path = (r"C:\Users\robhe\OneDrive - Vlerick Business School\Natural Language "
-           r"Processing\datasets\langchain_rag/vector_dbs/chroma_db_ev_database_combined")
-collection_name = "ev_database_combined"
+# Get project root (folder where inputs.py lives)
+BASE_DIR = Path(__file__).resolve().parent
 
-db_info_path = (r"C:\Users\robhe\OneDrive - Vlerick Business School\Natural Language "
-                r"Processing\datasets\langchain_rag\backup\database_info.json")
-IMAGE_INDEX_PATH = os.path.join(vd_path, "image_index.json")
+# =========================
+# Vector DB paths
+# =========================
+VD_PATH = BASE_DIR / "datasets" / "langchain_rag" / "vector_dbs" / "chroma_db_ev_database_combined"
+COLLECTION_NAME = "ev_database_combined"
 
-DB_DIR = (r"C:\Users\robhe\OneDrive - Vlerick Business School\Natural Language "
-          r"Processing\datasets\langchain_rag\sqlite_dbs")
-os.makedirs(DB_DIR, exist_ok=True)
-DB_PATH = os.path.join(DB_DIR, "car_chat_history.db")
+DB_INFO_PATH = BASE_DIR / "datasets" / "langchain_rag" / "backup" / "database_info.json"
+IMAGE_INDEX_PATH = VD_PATH / "image_index.json"
 
-TELEMETRY_DB_PATH = os.path.join(DB_DIR, "telemetry.db")
+# =========================
+# SQLite databases
+# =========================
+DB_DIR = BASE_DIR / "datasets" / "langchain_rag" / "sqlite_dbs"
+DB_DIR.mkdir(parents=True, exist_ok=True)
 
-QUESTIONNAIRE_DB_PATH = os.path.join(DB_DIR, "questionnaire.db")
+DB_PATH = DB_DIR / "car_chat_history.db"
+TELEMETRY_DB_PATH = DB_DIR / "telemetry.db"
+QUESTIONNAIRE_DB_PATH = DB_DIR / "questionnaire.db"
+
 RETRIEVER_SEARCH_TYPE = "mmr"
 RETRIEVER_SEARCH_KWARGS = {"k": 10, "fetch_k": 50, "lambda_mult": 0.5}
 COMPRESSOR_SIMILARITY_THRESHOLD = 0.5
