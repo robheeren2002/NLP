@@ -6,4 +6,4 @@ Then, set the admin password in your .streamlit folder, which can usually be fou
 Afterwards,  run the command:
 streamlit run app.py in your command window. The application should now be launched.
 
-Make sure all dependencies are installed.
+Make sure all dependencies from the requirements.txt are installed.
