@@ -12,11 +12,11 @@ BASE_DIR = Path(__file__).resolve().parent
 # =========================
 # Vector DB paths
 # =========================
-VD_PATH = BASE_DIR / "datasets" / "langchain_rag" / "vector_dbs" / "chroma_db_ev_database_combined"
-COLLECTION_NAME = "ev_database_combined"
+vd_path = BASE_DIR / "datasets" / "langchain_rag" / "vector_dbs" / "chroma_db_ev_database_combined"
+collection_name = "ev_database_combined"
 
-DB_INFO_PATH = BASE_DIR / "datasets" / "langchain_rag" / "backup" / "database_info.json"
-IMAGE_INDEX_PATH = VD_PATH / "image_index.json"
+db_info_path = BASE_DIR / "datasets" / "langchain_rag" / "backup" / "database_info.json"
+IMAGE_INDEX_PATH = vd_path / "image_index.json"
 
 # =========================
 # SQLite databases
