@@ -38,7 +38,7 @@ from llm.models import load_llms
 def ensure_state_defaults():
     st.session_state.setdefault("is_admin", False)
     st.session_state.setdefault("messages", [])
-    st.session_state.setdefault("session_id", "user_3")
+    st.session_state.setdefault("session_id", "user_-1")
     st.session_state.setdefault("last_session_id", st.session_state.session_id)
 
     # Default prompt texts stored in session so admin_pages can edit
@@ -212,7 +212,7 @@ def render_survey_form(form_key: str, title: str, caption: str, questions: list[
                 answers[qid] = st.text_area(label, value=q.get("default", ""), key=skey)
 
             elif qtype == "date":
-                answers[qid] = st.date_input(label, key=skey)
+                answers[qid] = st.date_input(label, key=skey, min_value=q.get("min_value",""))
 
             elif qtype == "select":
                 options = q["options"]
@@ -541,7 +541,7 @@ if st.session_state.chain_built_for_settings_version != st.session_state.user_se
     st.session_state.chain_version += 1
     st.session_state.chain_built_for_settings_version = st.session_state.user_settings_version
 
-st.title("🚗 Car Search Journey Assistant")
+st.title("🚗 EV Purchase Journey Assistant")
 
 # Sidebar (always visible)
 with st.sidebar:

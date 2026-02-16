@@ -1,7 +1,8 @@
 import os
+from datetime import date
 
 GUARDRAIL_LOCK_AFTER = 3       # lock after N triggers
-GUARDRAIL_LOCK_MINUTES = 5    # lock duration
+GUARDRAIL_LOCK_MINUTES = 5000    # lock duration
 GUARDRAIL_WINDOW_NOTE = "You are locked out due to misuse. Contact support to unlock your profile"
 
 vd_path = (r"C:\Users\robhe\OneDrive - Vlerick Business School\Natural Language "
@@ -170,6 +171,7 @@ PRE_SURVEY = [
         "label": "Day of birth",
         "type": "date",
         "required": True,
+        "min_value": date(1900, 1, 1)
     },
     {
         "id": "education",
